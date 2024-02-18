@@ -11,7 +11,7 @@
 assessing the quality of a dataset for a Public Service Agency to help them decide if they have good enough data to deliver on several
 projects.
 * Python functions were used to compile and clean the data to then evaluate its quality.
-* Insights and answers from this analysis were presented using this [powerpoint]([Camden_Trees_Initiatives_Analysis.pdf](https://github.com/Rasihha/OpenClassrooms-Data-Analytics-Bootcamp/blob/b7a686b46a9055af80cb2b8c4f8927e493b6c7cd/Camden_Trees_Initiatives_Analysis.pdf).
+* Insights and answers from this analysis were presented using this [powerpoint]([Camden_Trees_Initiatives_Analysis.pdf](https://github.com/Rasihha/OpenClassrooms-Data-Analytics-Bootcamp/blob/b7a686b46a9055af80cb2b8c4f8927e493b6c7cd/Camden_Trees_Initiatives_Analysis.pdf)).
 
 ## [SQL Project](https://github.com/Rasihha/OpenClassrooms-Data-Analytics-Bootcamp/blob/9294c3f82bcb3218f8eeee129e16903b9cbb5d90/chat_data.ipynb)
 
