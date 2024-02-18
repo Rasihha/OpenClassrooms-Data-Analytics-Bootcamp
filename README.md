@@ -1,4 +1,4 @@
-# OpenClassrooms Data Analytics Bootcamp Python-Project
+# OpenClassrooms Data Analytics Bootcamp
 
 <p align="center"> <img src="https://logovectorseek.com/wp-content/uploads/2021/01/openclassrooms-logo-vector.png" width="300"> </p>
 
