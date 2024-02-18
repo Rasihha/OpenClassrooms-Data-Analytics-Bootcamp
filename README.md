@@ -12,8 +12,8 @@ assessing the quality of a dataset for a Public Service Agency to help them deci
 projects.
 * Python functions were used to compile and clean the data to then evaluate its quality.
 
-## [SQL Project]
+## [SQL Project](https://github.com/Rasihha/OpenClassrooms-Data-Analytics-Bootcamp/blob/9294c3f82bcb3218f8eeee129e16903b9cbb5d90/chat_data.ipynb)
 
-* Provided insights on user interaction using SQL. 
+* Provided insights on user interaction of an online forum using SQL. 
 * Identified information such as top users,locations, and the number of comments.
 
